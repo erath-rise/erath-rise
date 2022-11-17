@@ -1,5 +1,5 @@
 <h2>Hi there! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/embed/XxmK7dzlBRAYbMsRe8" width="230">
+<img align='right' src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="230">
 <p><em>Frontend developer and UI/UX designer,  I’m currently learning JAVA<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
