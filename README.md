@@ -10,8 +10,8 @@
 ```Javascript
 const anmol = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Typescript", "React", "Vue", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "React", "JAVA", "Sringboot"],
+    askMeAbout: ["web dev", "tech", "Sci-fi", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -19,15 +19,13 @@ const anmol = {
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["node", "java"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongoDB", "MySql", "sqlite"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    architecture: ["Serverless Architecture", "Progressive web applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
