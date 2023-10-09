@@ -1,6 +1,6 @@
 <h2>Hi there! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
-<p><em>I worked as a frontend developer and UI/UX designer,  I'm studying for my master's degree in Dublin.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I worked as a frontend developer and UI/UX designer,  I'm studying in Dublin.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
