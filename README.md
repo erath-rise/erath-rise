@@ -15,15 +15,14 @@ const anmol = {
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "React"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Vue"],
+            css: ["materialize", "Tailwind CSS", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "java"],
-            python: ["flask"]
+            ["java", "python"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["mongoDB", "MySql", "sqlite"]
+        databases: ["mongoDB", "MySql"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
