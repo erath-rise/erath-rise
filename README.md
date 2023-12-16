@@ -20,10 +20,10 @@ const lianne = {
             css: ["materialize", "Tailwind CSS", "Bootstrap"]
         },
         backEnd: {
-            ["java", "python"]
+            ["java"]
         },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongoDB", "MySql"]
+        devOps: ["AWS"],
+        databases: ["MySql"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
