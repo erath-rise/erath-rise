@@ -10,7 +10,7 @@
 ```Javascript
 const lianne = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Typescript", "React", "JAVA", "Sringboot"],
+    code: ["Javascript", "Typescript", "React", "Nextjs" "JAVA", "Sringboot"],
     askMeAbout: ["web dev", "tech", "Sci-fi", "photography"],
     technologies: {
         mobileApp: ["Android App"],
