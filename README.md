@@ -22,7 +22,7 @@ const lianne = {
         backEnd: {
             ["java"]
         },
-        devOps: ["AWS"],
+        devOps: ["AWS", "Docker"],
         databases: ["MySql"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications"],
