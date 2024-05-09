@@ -1,6 +1,7 @@
 <h2>Hi there! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
 <p><em>UI/UX designer ｜ Full-stack developer | Studying in Dublin
+    <hr>
     [Click here to visit my website](https://my-profilo-beta.vercel.app/)
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
