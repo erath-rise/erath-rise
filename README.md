@@ -16,7 +16,7 @@ const lianne = {
     code: ["Javascript", "Typescript", "React", "Nextjs" "JAVA", "Sringboot"],
     askMeAbout: ["web dev", "tech", "Sci-fi", "photography"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["React Native"],
         frontEnd: {
             js: ["React", "Vue"],
             css: ["materialize", "Tailwind CSS", "Bootstrap"]
