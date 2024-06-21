@@ -13,10 +13,10 @@
 ```Javascript
 const lianne = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Typescript", "React", "Nextjs" "JAVA", "Sringboot"],
+    code: ["Node.js", "Javascript", "React", "Nextjs" "JAVA", "Sringboot"],
     askMeAbout: ["web dev", "tech", "Sci-fi", "photography"],
     technologies: {
-        mobileApp: ["React Native"],
+        mobileApp: ["React Native", "Flutter"],
         frontEnd: {
             js: ["React", "Vue"],
             css: ["materialize", "Tailwind CSS", "Bootstrap"]
@@ -25,9 +25,9 @@ const lianne = {
             ["java"]
         },
         devOps: ["AWS", "Docker"],
-        databases: ["MySql"]
+        databases: ["MySql", "MongoDB"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications"],
+    architecture: ["Serverless Architecture", "Distributed system"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
