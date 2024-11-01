@@ -13,6 +13,7 @@
 ```Javascript
 const Lianne = {
     pronouns: "She" | "Her",
+    language: ["Java", "JavaScript", "TypeScript", "Python", "HTML", "CSS"]
     askMeAbout: ["web dev", "tech", "Sci-fi"],
     technologies: {
         frontEnd: {
@@ -20,7 +21,7 @@ const Lianne = {
             css: ["materialize", "TailwindCSS", "Bootstrap"]
         },
         backEnd: {
-            ["java, Springboot", "Node"]
+            ["Springboot", "Node"]
         },
         mobileApp: ["React Native", "Flutter"],
         devOps: ["AWS", "Docker"],
