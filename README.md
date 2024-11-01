@@ -1,6 +1,6 @@
 <h2>Hi there! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
-<p><em>UI/UX designer ｜ Full-stack developer | Base in Dublin
+<p><em>Full-stack developer | UI/UX designer ｜ Base in Dublin
     <hr>
     [Click here to visit my website](https://my-profilo-beta.vercel.app/)
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -11,19 +11,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```Javascript
-const lianne = {
+const Lianne = {
     pronouns: "She" | "Her",
-    code: ["Node.js", "Javascript", "React", "Nextjs" "JAVA", "Sringboot"],
-    askMeAbout: ["web dev", "tech", "Sci-fi", "photography"],
+    askMeAbout: ["web dev", "tech", "Sci-fi"],
     technologies: {
-        mobileApp: ["React Native", "Flutter"],
         frontEnd: {
             js: ["React", "Vue"],
-            css: ["materialize", "Tailwind CSS", "Bootstrap"]
+            css: ["materialize", "TailwindCSS", "Bootstrap"]
         },
         backEnd: {
-            ["java"]
+            ["java, Springboot", "Node"]
         },
+        mobileApp: ["React Native", "Flutter"],
         devOps: ["AWS", "Docker"],
         databases: ["MySql", "MongoDB"]
     },
